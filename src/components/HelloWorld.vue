@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       欢迎来到 / customize this project,<br>
-      check out the
+      点击
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>已经安装的插件</h3>
