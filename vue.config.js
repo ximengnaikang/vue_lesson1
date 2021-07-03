@@ -1,4 +1,4 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production' ?
-        '/vuejs-essential/dist/' : './'
+        '/vue_lesson1/dist/' : '/'
 }
