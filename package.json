@@ -11,7 +11,8 @@
         "bootstrap-sass": "^3.4.1",
         "core-js": "^3.6.5",
         "font-awesome": "^4.7.0",
-        "vue": "^3.0.0"
+        "vue": "^3.0.0",
+        "vue-router": "^4.0.10"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -38,7 +39,14 @@
         "parserOptions": {
             "parser": "babel-eslint"
         },
-        "rules": {}
+        "rules": {
+            "generator-star-spacing": "off",
+            "no-tabs": "off",
+            "no-unused-vars": "off",
+            "no-console": "off",
+            "no-irregular-whitespace": "off",
+            "no-debugger": "off"
+        }
     },
     "browserslist": [
         "> 1%",
